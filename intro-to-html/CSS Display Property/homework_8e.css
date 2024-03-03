@@ -1,0 +1,38 @@
+.name{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.location{
+    font-size: 15px;
+    margin-bottom: 8px;
+    padding: 12px 15px;
+    width: 310px;
+    border:none;
+    background-color: rgb(238, 237, 237); 
+}
+.destination{
+    font-size: 15px;
+    display: block;
+    padding: 12px 15px;
+    width: 310px;
+    border:none;
+    background-color: rgb(238, 237, 237); 
+}
+.Request-now, .Schedule{
+    margin-top: 30px;
+    padding: 13px 18px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.Schedule{
+    background-color: rgb(238, 237, 237);
+    border: none;
+    margin-left: 10px;
+}
+.Request-now{
+    background-color: black;
+    color:white;
+    border:none;
+}
